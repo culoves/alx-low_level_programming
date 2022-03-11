@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - main block
+ * main - find last digit of a random number 
  *
  * Description - Find last digit of numbers
  *
